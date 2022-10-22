@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/lilly/uf/track/sgauge/tunnel/catenary_black"
+	"$translucent" 1
+}
