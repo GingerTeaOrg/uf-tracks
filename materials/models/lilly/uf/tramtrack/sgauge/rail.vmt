@@ -1,5 +1,6 @@
 "VertexLitGeneric"
 {
 	"$basetexture" "models/lilly/uf/track/sgauge/rail"
-	"$translucent" 0
+	"$surfaceprop" "Metal_Box"
+	"$surfaceprop2" "Metal_Box"
 }
