@@ -1,5 +1,5 @@
 "VertexLitGeneric"
 {
 	"$basetexture" "models/lilly/uf/track/sgauge/clamps"
-	
+	$surfaceprop "metal"
 }

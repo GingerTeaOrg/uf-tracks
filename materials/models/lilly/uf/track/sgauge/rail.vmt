@@ -2,4 +2,5 @@
 {
 	"$basetexture" "models/lilly/uf/track/sgauge/rail"
 	"$translucent" 0
+	$surfaceprop "metal"
 }
