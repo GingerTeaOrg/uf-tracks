@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/lilly/uf/track/sgauge/rubbercrossing"
+	"$surfaceprop" "Rubber"
+}
