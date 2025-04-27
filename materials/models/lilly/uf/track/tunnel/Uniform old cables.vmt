@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/lilly/uf/track/tunnel/Uniform old cables"
+	"$normalmap" "models/lilly/uf/track/tunnel/Uniform old cables normal"
+	"$surfaceprop" "Rubber"
+}

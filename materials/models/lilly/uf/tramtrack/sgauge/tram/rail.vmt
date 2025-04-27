@@ -1,4 +1,5 @@
 "VertexLitGeneric"
 {
 	"$basetexture" "models/lilly/uf/track/sgauge/tram/rail"
+	$surfaceprop Metal
 }

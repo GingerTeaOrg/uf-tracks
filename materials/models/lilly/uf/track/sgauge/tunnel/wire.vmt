@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/lilly/uf/track/sgauge/tunnel/wire"
+	"$envmapmask" "models/lilly/uf/track/sgauge/tunnel/wire_n"
+	"$normalmap" "models/lilly/uf/track/sgauge/tunnel/wire_n"
+	"$surfaceprop" "Metal"
+}

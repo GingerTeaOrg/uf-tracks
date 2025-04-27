@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/lilly/uf/track/tunnel/Frozen white metal"
+	"$normalmap" "models/lilly/uf/track/tunnel/Frozen white metal_n"
+	"$surfaceprop" "Metal"
+}

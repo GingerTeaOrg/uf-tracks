@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/lilly/uf/track/tunnel/concrete"
+	"$envmapmask" "models/lilly/uf/track/tunnel/concrete_env"
+	"$normalmap" "models/lilly/uf/track/tunnel/concrete_n"
+	"$surfaceprop" "Concrete"
+}

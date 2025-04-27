@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/lilly/uf/track/sgauge/tram/motor_cover"
+	$surfaceprop metal
+	$alphatest 1
+}

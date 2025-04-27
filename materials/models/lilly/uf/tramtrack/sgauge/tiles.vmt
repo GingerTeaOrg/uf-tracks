@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/lilly/uf/tramtrack/sgauge/tiles_blackwhite"
+	"$surfaceprop" "Concrete"
+}

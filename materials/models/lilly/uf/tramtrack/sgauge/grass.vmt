@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/lilly/uf/tramtrack/sgauge/grass"
+	"$normalmap" "models/lilly/uf/tramtrack/sgauge/grass_n"
+	"$surfaceprop" "Grass"
+}
